@@ -7,9 +7,10 @@ Address --> `<i class="fa-solid fa-map-location-dot"></i>` <br>
 Break --> `<i class="fa-regular fa-circle-pause"></i>` <br>
 
 # C
+Category --> `<i class="fas fa-layer-group"></i>` <br>
 Client --> `<i class="fa-solid fa-user-check"></i>` <br>
-Commission --> `<i class="fa-solid fa-hand-holding-dollar"></i>` <br>
 Code --> `<i class="fas fa-bookmark"></i>` <br>
+Commission --> `<i class="fa-solid fa-hand-holding-dollar"></i>` <br>
 Cumulative Commission --> `<i class="fa-solid fa-money-bill-wave"></i>` <br>
 # D
 Date --> `<i class="fas fa-calendar-day"></i>` <br>
@@ -43,13 +44,17 @@ Name --> `<i class="fas fa-user-tag"></i>` <br>
 # O
 
 # P
+Product --> `<i class="fas fa-box"></i>` <br>
 
 # Q
+Question --> `<i class="fas fa-question-circle"></i>` <br>
 
 # R
 Region --> `<i class="fas fa-map"></i>` <br>
 
 # S
+Segment --> `<i class="fas fa-user-check"></i>` <br>
+Seller --> `<i class="fas fa-user-tag"></i>` <br>
 Situation --> `<i class="fas fa-bookmark"></i>` <br>
 
 # T
