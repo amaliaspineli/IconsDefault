@@ -37,6 +37,7 @@ Infos --> `<i class="fas fa-info-circle"></i>` <br>
 # L
 
 # M
+Manager --> `<i class="fa-solid fa-user-tie"></i>`
 
 # N
 Name --> `<i class="fas fa-user-tag"></i>` <br>
