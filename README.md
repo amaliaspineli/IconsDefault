@@ -2,6 +2,7 @@
 
 # A
 Address --> `<i class="fa-solid fa-map-location-dot"></i>` <br>
+Approval --> `<i class="fas fa-check-square"></i>` <br>
 
 # B
 Break --> `<i class="fa-regular fa-circle-pause"></i>` <br>
@@ -57,6 +58,7 @@ Region --> `<i class="fas fa-map"></i>` <br>
 Segment --> `<i class="fas fa-user-check"></i>` <br>
 Seller --> `<i class="fas fa-user-tag"></i>` <br>
 Situation --> `<i class="fas fa-bookmark"></i>` <br>
+Status --> `<i class="fa fa-clone"></i>` <br>
 
 # T
 
