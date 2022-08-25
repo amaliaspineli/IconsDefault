@@ -40,7 +40,7 @@ Updated...
 ```
 <br>
 
-> Clear or Reset 
+> Clean or Reset 
 ```html 
 <i class="fa-solid fa-broom"></i>
 ```
