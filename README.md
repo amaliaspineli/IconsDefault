@@ -40,6 +40,12 @@ Updated...
 ```
 <br>
 
+> Clear or Reset 
+```html 
+<i class="fa-solid fa-broom"></i>
+```
+<br>
+
 > Client
 ```html 
 <i class="fa-solid fa-user-check"></i>
@@ -88,6 +94,10 @@ Updated...
 ```
 
 # F
+> Filter 
+```html 
+<i class="fas fa-filter"></i>
+```
 
 # G
 
