@@ -92,6 +92,12 @@ Updated...
 ```html 
 <i class="fa-solid fa-envelope"></i>
 ```
+<br>
+
+> Exit 
+```html 
+<i class="fas fa-times"></i>
+```
 
 # F
 > Filter 
@@ -161,6 +167,12 @@ Updated...
 ```
 
 # S
+> Save 
+```html 
+<i class="fas fa-save"></i>
+```
+<br>
+
 > Segment 
 ```html 
 <i class="fas fa-user-check"></i>
