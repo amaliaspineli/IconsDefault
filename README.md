@@ -173,6 +173,12 @@ Updated...
 ```
 <br>
 
+> Schedule 
+```html 
+<i class="fa-solid fa-file-signature"></i>
+```
+<br>
+
 > Segment 
 ```html 
 <i class="fas fa-user-check"></i>
