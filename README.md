@@ -99,6 +99,13 @@ Updated...
 <i class="fas fa-times"></i>
 ```
 
+<br>
+
+> Export 
+```html 
+<i class="fa-solid fa-file-export"></i>
+```
+
 # F
 > Filter 
 ```html 
@@ -108,6 +115,10 @@ Updated...
 # G
 
 # H
+> Historic 
+```html 
+<i class="fas fa-list"></i>
+```
 
 # I
 > Import 
@@ -164,6 +175,12 @@ Updated...
 > Region 
 ```html 
 <i class="fas fa-map"></i>
+```
+<br>
+
+> Report 
+```html 
+<i class="fa-solid fa-file-lines"></i>
 ```
 
 # S
